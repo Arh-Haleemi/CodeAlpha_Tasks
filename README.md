@@ -1,4 +1,4 @@
-# CodeAlpha_Tasks
+# CodeAlpha_Python_Tasks
 This repository contains all CodeAlpha internship Python tasks in one organized project.   Each folder represents an independent project demonstrating practical Python skills — from beginner to intermediate.
 
 🧭 Main Launcher (Code Alpha Internship - Project Launcher)
